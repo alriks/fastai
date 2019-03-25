@@ -3,8 +3,8 @@
 
 If you've been at all curioius about the field of deep learning you should really take 
 a look at the work being done by Jeremy Howard, Rachel Thomas, and various helpers at 
-Fastai. Their online introductory course is an approachable, interesting, surprisingly 
-simple introduction to a fascinating subject.
+Fastai. Their online course is an approachable, interesting, surprisingly simple 
+introduction to a fascinating subject.
 
 The <a href= https://course.fast.ai/>course lessons</a> are obviously the most sensible place to begin.
 
