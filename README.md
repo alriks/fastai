@@ -13,5 +13,5 @@ And, you should definitely visit the <a href= https://forums.fast.ai/>Discussion
 These are simply a collection of my own notes from moving through the course along with 
 alternative examples that I hope demonstrate some other possibilities.
 
-
+<h2>Lesson One, Simple Classifications</h2>
 
