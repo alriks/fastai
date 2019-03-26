@@ -1,4 +1,4 @@
-# fastai
+<h1># fastai</h1>
 "Homework" and alternative examples from the fastai courses, Deep Learning 1 &amp; 2
 
 If you've been at all curioius about the field of deep learning you should really take 
